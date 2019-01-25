@@ -1,0 +1,274 @@
+Starting ChromeDriver 2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387) on port 16558
+Only local connections are allowed.
+Jan 25, 2019 12:12:56 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+Test is running...
+User is on the Sony homepage
+User clicked on the Search Sony button
+User typed the (playstation) keyword on the search field
+Keyword (playstation) has 3 results
+TEST OK
+At least one presence of the (playstation) keyword has been found in the results
+TEST OK
+Test run completed
+Starting ChromeDriver 2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387) on port 28694
+Only local connections are allowed.
+Jan 25, 2019 12:13:07 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+Test is running...
+User is on the Sony homepage
+User clicked on the Search Sony button
+User typed the (computer) keyword on the search field
+Keyword (computer) has 3 results
+TEST OK
+At least one presence of the (computer) keyword has been found in the results
+TEST OK
+Test run completed
+Starting ChromeDriver 2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387) on port 15439
+Only local connections are allowed.
+Jan 25, 2019 12:13:19 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+Test is running...
+User is on the Sony homepage
+User clicked on the Search Sony button
+User typed the (television) keyword on the search field
+Keyword (television) has 3 results
+TEST OK
+At least one presence of the (television) keyword has been found in the results
+TEST OK
+Test run completed
+Starting ChromeDriver 2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387) on port 17865
+Only local connections are allowed.
+Jan 25, 2019 12:13:31 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+Test is running...
+User is on the Sony homepage
+User clicked on the Search Sony button
+User typed the (playstation gamepad) keyword on the search field
+Keyword (playstation gamepad) has 3 results
+TEST OK
+Test run completed
+Starting ChromeDriver 2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387) on port 33021
+Only local connections are allowed.
+Jan 25, 2019 12:13:43 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+Test is running...
+User is on the Sony homepage
+User clicked on the Search Sony button
+User typed the (laptop battery) keyword on the search field
+Keyword (laptop battery) has 3 results
+TEST OK
+Test run completed
+Starting ChromeDriver 2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387) on port 24364
+Only local connections are allowed.
+Jan 25, 2019 12:14:03 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+Test is running...
+User is on the Sony homepage
+User clicked on the Search Sony button
+User typed the (sony headphone) keyword on the search field
+Keyword (sony headphone) has 3 results
+TEST OK
+Test run completed
+Starting ChromeDriver 2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387) on port 10487
+Only local connections are allowed.
+Jan 25, 2019 12:14:14 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+Test is running...
+User is on the Sony homepage
+User clicked on the Search Sony button
+User typed the (DVP-SR510H) keyword on the search field
+Keyword (DVP-SR510H) has 3 results
+TEST OK
+Test run completed
+Starting ChromeDriver 2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387) on port 8502
+Only local connections are allowed.
+Jan 25, 2019 12:14:26 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+Test is running...
+User is on the Sony homepage
+User clicked on the Search Sony button
+User pressed the Enter button to start the search
+User is redirected to the Sony Search page
+TEST OK
+Zero result message has been displayed on the page
+TEST OK
+Suggested Categories section has been displayed on the page
+TEST OK
+Search Tips section has been displayed on the page
+TEST OK
+Test run completed
+Starting ChromeDriver 2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387) on port 26668
+Only local connections are allowed.
+Jan 25, 2019 12:14:38 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+Test is running...
+User is on the Sony search page for the (aibo) keyword
+Keyword (aibo) has 20 results in the current page and the total number of results are 184
+TEST OK
+At least one presence of the (aibo) keyword has been found in the results
+TEST OK
+Test run completed
+Starting ChromeDriver 2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387) on port 48104
+Only local connections are allowed.
+Jan 25, 2019 12:14:47 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+Test is running...
+User is on the Sony search page for the (smartwatch) keyword
+Keyword (smartwatch) has 18 results in the current page and the total number of results are 18
+TEST OK
+At least one presence of the (smartwatch) keyword has been found in the results
+TEST OK
+Test run completed
+Starting ChromeDriver 2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387) on port 8090
+Only local connections are allowed.
+Jan 25, 2019 12:14:55 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+Test is running...
+User is on the Sony search page for the (Xperia) keyword
+Keyword (Xperia) has 23 results in the current page and the total number of results are 2529
+TEST OK
+At least one presence of the (Xperia) keyword has been found in the results
+TEST OK
+Test run completed
+Starting ChromeDriver 2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387) on port 44855
+Only local connections are allowed.
+Jan 25, 2019 12:15:05 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+Test is running...
+User is on the Sony search page for the (aibo) keyword
+User clicked on the clear search button/icon
+User clicked on the search field
+User typed the (playstation) keyword on the search field
+User clicked on the Search button
+Keyword (playstation) has 23 results in the current page and the total number of results are 3313
+TEST OK
+At least one presence of the (playstation) keyword has been found in the results
+TEST OK
+Test run completed
+Feature: Sony Search Function
+
+  Scenario Outline: Valid Search on the Sony Homepage with 1 Keyword # C:\Users\Kraeius\eclipse-workspace\Sony - Search\src\cucumber\features\Search.feature:3
+    Given I am on the Sony homepage
+    When I click on the Search Sony button
+    And I type the <Keyword> on the search field
+    Then I should see at least one result for the <Keyword> on the homepage search pane
+    And Results should be relevant with the <Keyword>
+
+    Examples: 
+
+  Scenario Outline: Valid Search on the Sony Homepage with 1 Keyword                      # C:\Users\Kraeius\eclipse-workspace\Sony - Search\src\cucumber\features\Search.feature:12
+    Given I am on the Sony homepage                                                       # SearchStepDefinitions.navigateToSonyHomepage()
+    When I click on the Search Sony button                                                # SearchStepDefinitions.clickOnSearchButton()
+    And I type the playstation on the search field                                        # SearchStepDefinitions.typeTheKeyword(String)
+    Then I should see at least one result for the playstation on the homepage search pane # SearchStepDefinitions.checkResultCountOnHomepage(String)
+    And Results should be relevant with the playstation                                   # SearchStepDefinitions.checkResultRelevancy(String)
+
+  Scenario Outline: Valid Search on the Sony Homepage with 1 Keyword                   # C:\Users\Kraeius\eclipse-workspace\Sony - Search\src\cucumber\features\Search.feature:13
+    Given I am on the Sony homepage                                                    # SearchStepDefinitions.navigateToSonyHomepage()
+    When I click on the Search Sony button                                             # SearchStepDefinitions.clickOnSearchButton()
+    And I type the computer on the search field                                        # SearchStepDefinitions.typeTheKeyword(String)
+    Then I should see at least one result for the computer on the homepage search pane # SearchStepDefinitions.checkResultCountOnHomepage(String)
+    And Results should be relevant with the computer                                   # SearchStepDefinitions.checkResultRelevancy(String)
+
+  Scenario Outline: Valid Search on the Sony Homepage with 1 Keyword                     # C:\Users\Kraeius\eclipse-workspace\Sony - Search\src\cucumber\features\Search.feature:14
+    Given I am on the Sony homepage                                                      # SearchStepDefinitions.navigateToSonyHomepage()
+    When I click on the Search Sony button                                               # SearchStepDefinitions.clickOnSearchButton()
+    And I type the television on the search field                                        # SearchStepDefinitions.typeTheKeyword(String)
+    Then I should see at least one result for the television on the homepage search pane # SearchStepDefinitions.checkResultCountOnHomepage(String)
+    And Results should be relevant with the television                                   # SearchStepDefinitions.checkResultRelevancy(String)
+
+  Scenario Outline: Valid Search on the Sony Homepage with 2 Keywords # C:\Users\Kraeius\eclipse-workspace\Sony - Search\src\cucumber\features\Search.feature:16
+    Given I am on the Sony homepage
+    When I click on the Search Sony button
+    And I type the <Keyword> on the search field
+    Then I should see at least one result for the <Keyword> on the homepage search pane
+
+    Examples: 
+
+  Scenario Outline: Valid Search on the Sony Homepage with 2 Keywords                             # C:\Users\Kraeius\eclipse-workspace\Sony - Search\src\cucumber\features\Search.feature:24
+    Given I am on the Sony homepage                                                               # SearchStepDefinitions.navigateToSonyHomepage()
+    When I click on the Search Sony button                                                        # SearchStepDefinitions.clickOnSearchButton()
+    And I type the playstation gamepad on the search field                                        # SearchStepDefinitions.typeTheKeyword(String)
+    Then I should see at least one result for the playstation gamepad on the homepage search pane # SearchStepDefinitions.checkResultCountOnHomepage(String)
+
+  Scenario Outline: Valid Search on the Sony Homepage with 2 Keywords                        # C:\Users\Kraeius\eclipse-workspace\Sony - Search\src\cucumber\features\Search.feature:25
+    Given I am on the Sony homepage                                                          # SearchStepDefinitions.navigateToSonyHomepage()
+    When I click on the Search Sony button                                                   # SearchStepDefinitions.clickOnSearchButton()
+    And I type the laptop battery on the search field                                        # SearchStepDefinitions.typeTheKeyword(String)
+    Then I should see at least one result for the laptop battery on the homepage search pane # SearchStepDefinitions.checkResultCountOnHomepage(String)
+
+  Scenario Outline: Valid Search on the Sony Homepage with 2 Keywords                        # C:\Users\Kraeius\eclipse-workspace\Sony - Search\src\cucumber\features\Search.feature:26
+    Given I am on the Sony homepage                                                          # SearchStepDefinitions.navigateToSonyHomepage()
+    When I click on the Search Sony button                                                   # SearchStepDefinitions.clickOnSearchButton()
+    And I type the sony headphone on the search field                                        # SearchStepDefinitions.typeTheKeyword(String)
+    Then I should see at least one result for the sony headphone on the homepage search pane # SearchStepDefinitions.checkResultCountOnHomepage(String)
+
+  Scenario Outline: Valid Search on Homepage with a Product ID # C:\Users\Kraeius\eclipse-workspace\Sony - Search\src\cucumber\features\Search.feature:28
+    Given I am on the Sony homepage
+    When I click on the Search Sony button
+    And I type the <ProductID> on the search field
+    Then I should see at least one result for the <ProductID> on the homepage search pane
+
+    Examples: 
+
+  Scenario Outline: Valid Search on Homepage with a Product ID                           # C:\Users\Kraeius\eclipse-workspace\Sony - Search\src\cucumber\features\Search.feature:36
+    Given I am on the Sony homepage                                                      # SearchStepDefinitions.navigateToSonyHomepage()
+    When I click on the Search Sony button                                               # SearchStepDefinitions.clickOnSearchButton()
+    And I type the DVP-SR510H on the search field                                        # SearchStepDefinitions.typeTheKeyword(String)
+    Then I should see at least one result for the DVP-SR510H on the homepage search pane # SearchStepDefinitions.checkResultCountOnHomepage(String)
+
+  Scenario: Empty Search on the Sony Homepage       # C:\Users\Kraeius\eclipse-workspace\Sony - Search\src\cucumber\features\Search.feature:38
+    Given I am on the Sony homepage                 # SearchStepDefinitions.navigateToSonyHomepage()
+    When I click on the Search Sony button          # SearchStepDefinitions.clickOnSearchButton()
+    And I press enter to start the search           # SearchStepDefinitions.pressEnter()
+    Then I should be redirected to the search page  # SearchStepDefinitions.verifySonySearchPage()
+    And I should see a zero result message          # SearchStepDefinitions.checkZeroResultMessage()
+    And I should see a suggested categories section # SearchStepDefinitions.checkSuggestedCategoriesSection()
+    And I should see a search tips section          # SearchStepDefinitions.checkSearchTipsSection()
+
+  Scenario Outline: Direct Valid Search via a Query String # C:\Users\Kraeius\eclipse-workspace\Sony - Search\src\cucumber\features\Search.feature:47
+    Given I have navigated to Sony search page via <Keyword> on a query string
+    Then I should see at least one result for the <Keyword> on the search page
+    And Results should be relevant with the <Keyword>
+
+    Examples: 
+
+  Scenario Outline: Direct Valid Search via a Query String                # C:\Users\Kraeius\eclipse-workspace\Sony - Search\src\cucumber\features\Search.feature:54
+    Given I have navigated to Sony search page via aibo on a query string # SearchStepDefinitions.navigateToSonySearchPageViaDirectLink(String)
+    Then I should see at least one result for the aibo on the search page # SearchStepDefinitions.checkResultCountOnSearchPage(String)
+    And Results should be relevant with the aibo                          # SearchStepDefinitions.checkResultRelevancy(String)
+
+  Scenario Outline: Direct Valid Search via a Query String                      # C:\Users\Kraeius\eclipse-workspace\Sony - Search\src\cucumber\features\Search.feature:55
+    Given I have navigated to Sony search page via smartwatch on a query string # SearchStepDefinitions.navigateToSonySearchPageViaDirectLink(String)
+    Then I should see at least one result for the smartwatch on the search page # SearchStepDefinitions.checkResultCountOnSearchPage(String)
+    And Results should be relevant with the smartwatch                          # SearchStepDefinitions.checkResultRelevancy(String)
+
+  Scenario Outline: Direct Valid Search via a Query String                  # C:\Users\Kraeius\eclipse-workspace\Sony - Search\src\cucumber\features\Search.feature:56
+    Given I have navigated to Sony search page via Xperia on a query string # SearchStepDefinitions.navigateToSonySearchPageViaDirectLink(String)
+    Then I should see at least one result for the Xperia on the search page # SearchStepDefinitions.checkResultCountOnSearchPage(String)
+    And Results should be relevant with the Xperia                          # SearchStepDefinitions.checkResultRelevancy(String)
+
+  Scenario Outline: Conducting a New Valid Search on the Sony Search Page # C:\Users\Kraeius\eclipse-workspace\Sony - Search\src\cucumber\features\Search.feature:58
+    Given I have navigated to Sony search page via <Keyword> on a query string
+    When I click on the clear search button
+    And I click on the search field of the Sony search page
+    And I type the <New Keyword> on the search field of the Sony search page
+    And I click on the Search button of the Sony search page
+    Then I should see at least one result for the <New Keyword> on the search page
+    And Results should be relevant with the <New Keyword>
+
+    Examples: 
+
+  Scenario Outline: Conducting a New Valid Search on the Sony Search Page        # C:\Users\Kraeius\eclipse-workspace\Sony - Search\src\cucumber\features\Search.feature:69
+    Given I have navigated to Sony search page via aibo on a query string        # SearchStepDefinitions.navigateToSonySearchPageViaDirectLink(String)
+    When I click on the clear search button                                      # SearchStepDefinitions.clickOnClearSearchButton()
+    And I click on the search field of the Sony search page                      # SearchStepDefinitions.clickOnSearchField()
+    And I type the playstation on the search field of the Sony search page       # SearchStepDefinitions.typeTheKeywordForSearchPage(String)
+    And I click on the Search button of the Sony search page                     # SearchStepDefinitions.clickTheSearchButtonOfSearchPage()
+    Then I should see at least one result for the playstation on the search page # SearchStepDefinitions.checkResultCountOnSearchPage(String)
+    And Results should be relevant with the playstation                          # SearchStepDefinitions.checkResultRelevancy(String)
+
+12 Scenarios (12 passed)
+54 Steps (54 passed)
+2m20.243s

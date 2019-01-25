@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Kraeius/eclipse-workspace/Sony - Search/jars/cucumber-html-0.2.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kraeius/eclipse-workspace/Sony - Search/jars/cucumber-java-4.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kraeius/eclipse-workspace/Sony - Search/jars/cucumber-junit-4.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kraeius/eclipse-workspace/Sony - Search/jars/cucumber-jvm-deps-1.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kraeius/eclipse-workspace/Sony - Search/jars/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kraeius/eclipse-workspace/Sony - Search/jars/cucumber-core-4.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kraeius/eclipse-workspace/Sony - Search/jars/cucumber-expressions-6.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kraeius/eclipse-workspace/Sony - Search/jars/datatable-1.1.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kraeius/eclipse-workspace/Sony - Search/jars/tag-expressions-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kraeius/eclipse-workspace/Sony - Search/jars/datatable-dependencies-1.1.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kraeius/eclipse-workspace/Sony - Search/jars/messages-2.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kraeius/eclipse-workspace/Sony - Search/jars/gherkin-5.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kraeius/eclipse-workspace/Sony - Search/jars/gherkin-jvm-deps-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kraeius/eclipse-workspace/Sony - Search/jars/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
